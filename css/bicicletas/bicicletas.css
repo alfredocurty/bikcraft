@@ -1,5 +1,9 @@
 .bicicletas-bg {
-  background-image: linear-gradient(to right, var(--cor-0) 30%, var(--cor-11) 0%);
+  background-image: linear-gradient(
+    to right,
+    var(--cor-0) 30%,
+    var(--cor-11) 0%
+  );
 }
 
 .bicicletas {
@@ -44,7 +48,7 @@
 }
 
 .bicicletas h2::before {
-  content: '';
+  content: "";
   display: block;
   width: 12px;
   height: 8px;
