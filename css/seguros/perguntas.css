@@ -25,7 +25,7 @@
 }
 
 .perguntas dt::before {
-  content: '';
+  content: "";
   display: inline-block;
   width: 12px;
   height: 8px;
@@ -33,7 +33,7 @@
 }
 
 .perguntas dt::after {
-  content: '';
+  content: "";
   display: inline-block;
   width: 14px;
   height: 6px;

@@ -93,6 +93,10 @@
     padding-top: 40px;
     padding-bottom: 40px;
   }
+  .bicicletas-conteudo p,
+  .bicicletas-conteudo ul {
+    color: var(--cor-8);
+  }
 }
 
 @media (max-width: 600px) {
